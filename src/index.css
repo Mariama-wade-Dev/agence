@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+@theme { --font-sans: Inter, system-ui, sans-serif; --color-navy:#102542; --color-blu:#1769AA; --color-gold:#F59725; --color-bg:#F5F7FA; --color-ink:#202B3C; }
+body{background:#F5F7FA;color:#202B3C}
+.fade{animation:f .35s ease}@keyframes f{from{opacity:0;transform:translateY(6px)}}

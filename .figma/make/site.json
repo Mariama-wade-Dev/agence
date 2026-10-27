@@ -1,0 +1,10 @@
+{
+  "description": "Une plateforme multiservices au Sénégal pour découvrir et demander des offres de voyage, d’immobilier, de voitures et de boutique, avec des espaces client et administrateur.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
